@@ -72,8 +72,6 @@ def vessel_generator(env, terminal):
 
     while True:
         # creating a random waiting time for the arrival of each of the vessels
-        # waiting_time = random.randint(AVG_ARRIVAL_TIME-50,AVG_ARRIVAL_TIME+50)
-        # yield env.timeout(random.expovariate(1 / AVG_ARRIVAL_TIME))
 
         # creating a random waiting time for the arrival of each of the vessels
         waiting_time = random.randint(AVG_ARRIVAL_TIME-50,AVG_ARRIVAL_TIME+50)
