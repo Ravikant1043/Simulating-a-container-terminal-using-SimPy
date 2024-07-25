@@ -1,0 +1,1261 @@
+---Sample Output---
+
+Enter the time in minutes..... : 1000
+Vessel 1 berthed at 0.00
+The Unloading of Vessel 1 has been successfully started at 0.00
+
+Vessel 2 berthed at 0.00
+The Unloading of Vessel 2 has been successfully started at 0.00
+
+Vessel 1 --> Vessel 1 crane moved container 1 using truck at 3.00
+Vessel 2 --> Vessel 2 crane moved container 1 using truck at 3.00
+Vessel 1 --> Vessel 1 crane moved container 2 using truck at 6.00
+Vessel 2 --> Vessel 2 crane moved container 2 using truck at 6.00
+Vessel 1 --> Truck moved container 1 of Vessel 1 at 9.00
+Vessel 2 --> Truck moved container 1 of Vessel 2 at 9.00
+Vessel 1 --> Vessel 1 crane moved container 3 using truck at 9.00
+Vessel 2 --> Vessel 2 crane moved container 3 using truck at 9.00
+Vessel 1 --> Truck moved container 2 of Vessel 1 at 12.00
+Vessel 2 --> Truck moved container 2 of Vessel 2 at 12.00
+Vessel 1 --> Vessel 1 crane moved container 4 using truck at 12.00
+Vessel 2 --> Vessel 2 crane moved container 4 using truck at 12.00
+Vessel 1 --> Truck moved container 3 of Vessel 1 at 15.00
+Vessel 2 --> Truck moved container 3 of Vessel 2 at 15.00
+Vessel 1 --> Vessel 1 crane moved container 5 using truck at 15.00
+Vessel 2 --> Vessel 2 crane moved container 5 using truck at 15.00
+Vessel 1 --> Truck moved container 4 of Vessel 1 at 18.00
+Vessel 2 --> Truck moved container 4 of Vessel 2 at 18.00
+Vessel 1 --> Vessel 1 crane moved container 6 using truck at 18.00
+Vessel 2 --> Vessel 2 crane moved container 6 using truck at 18.00
+Vessel 1 --> Truck moved container 5 of Vessel 1 at 21.00
+Vessel 2 --> Truck moved container 5 of Vessel 2 at 21.00
+Vessel 1 --> Vessel 1 crane moved container 7 using truck at 21.00
+Vessel 2 --> Vessel 2 crane moved container 7 using truck at 21.00
+Vessel 1 --> Truck moved container 6 of Vessel 1 at 24.00
+Vessel 2 --> Truck moved container 6 of Vessel 2 at 24.00
+Vessel 1 --> Vessel 1 crane moved container 8 using truck at 24.00
+Vessel 2 --> Vessel 2 crane moved container 8 using truck at 24.00
+Vessel 1 --> Truck moved container 7 of Vessel 1 at 27.00
+Vessel 2 --> Truck moved container 7 of Vessel 2 at 27.00
+Vessel 1 --> Vessel 1 crane moved container 9 using truck at 27.00
+Vessel 2 --> Vessel 2 crane moved container 9 using truck at 27.00
+Vessel 1 --> Truck moved container 8 of Vessel 1 at 30.00
+Vessel 2 --> Truck moved container 8 of Vessel 2 at 30.00
+Vessel 1 --> Vessel 1 crane moved container 10 using truck at 30.00
+Vessel 2 --> Vessel 2 crane moved container 10 using truck at 30.00
+Vessel 1 --> Truck moved container 9 of Vessel 1 at 33.00
+Vessel 2 --> Truck moved container 9 of Vessel 2 at 33.00
+Vessel 1 --> Vessel 1 crane moved container 11 using truck at 33.00
+Vessel 2 --> Vessel 2 crane moved container 11 using truck at 33.00
+Vessel 1 --> Truck moved container 10 of Vessel 1 at 36.00
+Vessel 2 --> Truck moved container 10 of Vessel 2 at 36.00
+Vessel 1 --> Vessel 1 crane moved container 12 using truck at 36.00
+Vessel 2 --> Vessel 2 crane moved container 12 using truck at 36.00
+Vessel 1 --> Truck moved container 11 of Vessel 1 at 39.00
+Vessel 2 --> Truck moved container 11 of Vessel 2 at 39.00
+Vessel 1 --> Vessel 1 crane moved container 13 using truck at 39.00
+Vessel 2 --> Vessel 2 crane moved container 13 using truck at 39.00
+Vessel 1 --> Truck moved container 12 of Vessel 1 at 42.00
+Vessel 2 --> Truck moved container 12 of Vessel 2 at 42.00
+Vessel 1 --> Vessel 1 crane moved container 14 using truck at 42.00
+Vessel 2 --> Vessel 2 crane moved container 14 using truck at 42.00
+Vessel 1 --> Truck moved container 13 of Vessel 1 at 45.00
+Vessel 2 --> Truck moved container 13 of Vessel 2 at 45.00
+Vessel 1 --> Vessel 1 crane moved container 15 using truck at 45.00
+Vessel 2 --> Vessel 2 crane moved container 15 using truck at 45.00
+Vessel 1 --> Truck moved container 14 of Vessel 1 at 48.00
+Vessel 2 --> Truck moved container 14 of Vessel 2 at 48.00
+Vessel 1 --> Vessel 1 crane moved container 16 using truck at 48.00
+Vessel 2 --> Vessel 2 crane moved container 16 using truck at 48.00
+Vessel 1 --> Truck moved container 15 of Vessel 1 at 51.00
+Vessel 2 --> Truck moved container 15 of Vessel 2 at 51.00
+Vessel 1 --> Vessel 1 crane moved container 17 using truck at 51.00
+Vessel 2 --> Vessel 2 crane moved container 17 using truck at 51.00
+Vessel 1 --> Truck moved container 16 of Vessel 1 at 54.00
+Vessel 2 --> Truck moved container 16 of Vessel 2 at 54.00
+Vessel 1 --> Vessel 1 crane moved container 18 using truck at 54.00
+Vessel 2 --> Vessel 2 crane moved container 18 using truck at 54.00
+Vessel 1 --> Truck moved container 17 of Vessel 1 at 57.00
+Vessel 2 --> Truck moved container 17 of Vessel 2 at 57.00
+Vessel 1 --> Vessel 1 crane moved container 19 using truck at 57.00
+Vessel 2 --> Vessel 2 crane moved container 19 using truck at 57.00
+Vessel 1 --> Truck moved container 18 of Vessel 1 at 60.00
+Vessel 2 --> Truck moved container 18 of Vessel 2 at 60.00
+Vessel 1 --> Vessel 1 crane moved container 20 using truck at 60.00
+Vessel 2 --> Vessel 2 crane moved container 20 using truck at 60.00
+Vessel 1 --> Truck moved container 19 of Vessel 1 at 63.00
+Vessel 2 --> Truck moved container 19 of Vessel 2 at 63.00
+Vessel 1 --> Vessel 1 crane moved container 21 using truck at 63.00
+Vessel 2 --> Vessel 2 crane moved container 21 using truck at 63.00
+Vessel 1 --> Truck moved container 20 of Vessel 1 at 66.00
+Vessel 2 --> Truck moved container 20 of Vessel 2 at 66.00
+Vessel 1 --> Vessel 1 crane moved container 22 using truck at 66.00
+Vessel 2 --> Vessel 2 crane moved container 22 using truck at 66.00
+Vessel 1 --> Truck moved container 21 of Vessel 1 at 69.00
+Vessel 2 --> Truck moved container 21 of Vessel 2 at 69.00
+Vessel 1 --> Vessel 1 crane moved container 23 using truck at 69.00
+Vessel 2 --> Vessel 2 crane moved container 23 using truck at 69.00
+Vessel 1 --> Truck moved container 22 of Vessel 1 at 72.00
+Vessel 2 --> Truck moved container 22 of Vessel 2 at 72.00
+Vessel 1 --> Vessel 1 crane moved container 24 using truck at 72.00
+Vessel 2 --> Vessel 2 crane moved container 24 using truck at 72.00
+Vessel 1 --> Truck moved container 23 of Vessel 1 at 75.00
+Vessel 2 --> Truck moved container 23 of Vessel 2 at 75.00
+Vessel 1 --> Vessel 1 crane moved container 25 using truck at 75.00
+Vessel 2 --> Vessel 2 crane moved container 25 using truck at 75.00
+Vessel 1 --> Truck moved container 24 of Vessel 1 at 78.00
+Vessel 2 --> Truck moved container 24 of Vessel 2 at 78.00
+Vessel 1 --> Vessel 1 crane moved container 26 using truck at 78.00
+Vessel 2 --> Vessel 2 crane moved container 26 using truck at 78.00
+Vessel 1 --> Truck moved container 25 of Vessel 1 at 81.00
+Vessel 2 --> Truck moved container 25 of Vessel 2 at 81.00
+Vessel 1 --> Vessel 1 crane moved container 27 using truck at 81.00
+Vessel 2 --> Vessel 2 crane moved container 27 using truck at 81.00
+Vessel 1 --> Truck moved container 26 of Vessel 1 at 84.00
+Vessel 2 --> Truck moved container 26 of Vessel 2 at 84.00
+Vessel 1 --> Vessel 1 crane moved container 28 using truck at 84.00
+Vessel 2 --> Vessel 2 crane moved container 28 using truck at 84.00
+Vessel 1 --> Truck moved container 27 of Vessel 1 at 87.00
+Vessel 2 --> Truck moved container 27 of Vessel 2 at 87.00
+Vessel 1 --> Vessel 1 crane moved container 29 using truck at 87.00
+Vessel 2 --> Vessel 2 crane moved container 29 using truck at 87.00
+Vessel 1 --> Truck moved container 28 of Vessel 1 at 90.00
+Vessel 2 --> Truck moved container 28 of Vessel 2 at 90.00
+Vessel 1 --> Vessel 1 crane moved container 30 using truck at 90.00
+Vessel 2 --> Vessel 2 crane moved container 30 using truck at 90.00
+Vessel 1 --> Truck moved container 29 of Vessel 1 at 93.00
+Vessel 2 --> Truck moved container 29 of Vessel 2 at 93.00
+Vessel 1 --> Vessel 1 crane moved container 31 using truck at 93.00
+Vessel 2 --> Vessel 2 crane moved container 31 using truck at 93.00
+Vessel 1 --> Truck moved container 30 of Vessel 1 at 96.00
+Vessel 2 --> Truck moved container 30 of Vessel 2 at 96.00
+Vessel 1 --> Vessel 1 crane moved container 32 using truck at 96.00
+Vessel 2 --> Vessel 2 crane moved container 32 using truck at 96.00
+Vessel 1 --> Truck moved container 31 of Vessel 1 at 99.00
+Vessel 2 --> Truck moved container 31 of Vessel 2 at 99.00
+Vessel 1 --> Vessel 1 crane moved container 33 using truck at 99.00
+Vessel 2 --> Vessel 2 crane moved container 33 using truck at 99.00
+Vessel 1 --> Truck moved container 32 of Vessel 1 at 102.00
+Vessel 2 --> Truck moved container 32 of Vessel 2 at 102.00
+Vessel 1 --> Vessel 1 crane moved container 34 using truck at 102.00
+Vessel 2 --> Vessel 2 crane moved container 34 using truck at 102.00
+Vessel 1 --> Truck moved container 33 of Vessel 1 at 105.00
+Vessel 2 --> Truck moved container 33 of Vessel 2 at 105.00
+Vessel 1 --> Vessel 1 crane moved container 35 using truck at 105.00
+Vessel 2 --> Vessel 2 crane moved container 35 using truck at 105.00
+Vessel 1 --> Truck moved container 34 of Vessel 1 at 108.00
+Vessel 2 --> Truck moved container 34 of Vessel 2 at 108.00
+Vessel 1 --> Vessel 1 crane moved container 36 using truck at 108.00
+Vessel 2 --> Vessel 2 crane moved container 36 using truck at 108.00
+Vessel 1 --> Truck moved container 35 of Vessel 1 at 111.00
+Vessel 2 --> Truck moved container 35 of Vessel 2 at 111.00
+Vessel 1 --> Vessel 1 crane moved container 37 using truck at 111.00
+Vessel 2 --> Vessel 2 crane moved container 37 using truck at 111.00
+Vessel 1 --> Truck moved container 36 of Vessel 1 at 114.00
+Vessel 2 --> Truck moved container 36 of Vessel 2 at 114.00
+Vessel 1 --> Vessel 1 crane moved container 38 using truck at 114.00
+Vessel 2 --> Vessel 2 crane moved container 38 using truck at 114.00
+Vessel 1 --> Truck moved container 37 of Vessel 1 at 117.00
+Vessel 2 --> Truck moved container 37 of Vessel 2 at 117.00
+Vessel 1 --> Vessel 1 crane moved container 39 using truck at 117.00
+Vessel 2 --> Vessel 2 crane moved container 39 using truck at 117.00
+Vessel 1 --> Truck moved container 38 of Vessel 1 at 120.00
+Vessel 2 --> Truck moved container 38 of Vessel 2 at 120.00
+Vessel 1 --> Vessel 1 crane moved container 40 using truck at 120.00
+Vessel 2 --> Vessel 2 crane moved container 40 using truck at 120.00
+Vessel 1 --> Truck moved container 39 of Vessel 1 at 123.00
+Vessel 2 --> Truck moved container 39 of Vessel 2 at 123.00
+Vessel 1 --> Vessel 1 crane moved container 41 using truck at 123.00
+Vessel 2 --> Vessel 2 crane moved container 41 using truck at 123.00
+Vessel 1 --> Truck moved container 40 of Vessel 1 at 126.00
+Vessel 2 --> Truck moved container 40 of Vessel 2 at 126.00
+Vessel 1 --> Vessel 1 crane moved container 42 using truck at 126.00
+Vessel 2 --> Vessel 2 crane moved container 42 using truck at 126.00
+Vessel 1 --> Truck moved container 41 of Vessel 1 at 129.00
+Vessel 2 --> Truck moved container 41 of Vessel 2 at 129.00
+Vessel 1 --> Vessel 1 crane moved container 43 using truck at 129.00
+Vessel 2 --> Vessel 2 crane moved container 43 using truck at 129.00
+Vessel 1 --> Truck moved container 42 of Vessel 1 at 132.00
+Vessel 2 --> Truck moved container 42 of Vessel 2 at 132.00
+Vessel 1 --> Vessel 1 crane moved container 44 using truck at 132.00
+Vessel 2 --> Vessel 2 crane moved container 44 using truck at 132.00
+Vessel 1 --> Truck moved container 43 of Vessel 1 at 135.00
+Vessel 2 --> Truck moved container 43 of Vessel 2 at 135.00
+Vessel 1 --> Vessel 1 crane moved container 45 using truck at 135.00
+Vessel 2 --> Vessel 2 crane moved container 45 using truck at 135.00
+Vessel 1 --> Truck moved container 44 of Vessel 1 at 138.00
+Vessel 2 --> Truck moved container 44 of Vessel 2 at 138.00
+Vessel 1 --> Vessel 1 crane moved container 46 using truck at 138.00
+Vessel 2 --> Vessel 2 crane moved container 46 using truck at 138.00
+Vessel 1 --> Truck moved container 45 of Vessel 1 at 141.00
+Vessel 2 --> Truck moved container 45 of Vessel 2 at 141.00
+Vessel 1 --> Vessel 1 crane moved container 47 using truck at 141.00
+Vessel 2 --> Vessel 2 crane moved container 47 using truck at 141.00
+Vessel 1 --> Truck moved container 46 of Vessel 1 at 144.00
+Vessel 2 --> Truck moved container 46 of Vessel 2 at 144.00
+Vessel 1 --> Vessel 1 crane moved container 48 using truck at 144.00
+Vessel 2 --> Vessel 2 crane moved container 48 using truck at 144.00
+Vessel 1 --> Truck moved container 47 of Vessel 1 at 147.00
+Vessel 2 --> Truck moved container 47 of Vessel 2 at 147.00
+Vessel 1 --> Vessel 1 crane moved container 49 using truck at 147.00
+Vessel 2 --> Vessel 2 crane moved container 49 using truck at 147.00
+Vessel 1 --> Truck moved container 48 of Vessel 1 at 150.00
+Vessel 2 --> Truck moved container 48 of Vessel 2 at 150.00
+Vessel 1 --> Vessel 1 crane moved container 50 using truck at 150.00
+Vessel 2 --> Vessel 2 crane moved container 50 using truck at 150.00
+Vessel 1 --> Truck moved container 49 of Vessel 1 at 153.00
+Vessel 2 --> Truck moved container 49 of Vessel 2 at 153.00
+Vessel 1 --> Vessel 1 crane moved container 51 using truck at 153.00
+Vessel 2 --> Vessel 2 crane moved container 51 using truck at 153.00
+Vessel 1 --> Truck moved container 50 of Vessel 1 at 156.00
+Vessel 2 --> Truck moved container 50 of Vessel 2 at 156.00
+Vessel 1 --> Vessel 1 crane moved container 52 using truck at 156.00
+Vessel 2 --> Vessel 2 crane moved container 52 using truck at 156.00
+Vessel 1 --> Truck moved container 51 of Vessel 1 at 159.00
+Vessel 2 --> Truck moved container 51 of Vessel 2 at 159.00
+Vessel 1 --> Vessel 1 crane moved container 53 using truck at 159.00
+Vessel 2 --> Vessel 2 crane moved container 53 using truck at 159.00
+Vessel 1 --> Truck moved container 52 of Vessel 1 at 162.00
+Vessel 2 --> Truck moved container 52 of Vessel 2 at 162.00
+Vessel 1 --> Vessel 1 crane moved container 54 using truck at 162.00
+Vessel 2 --> Vessel 2 crane moved container 54 using truck at 162.00
+Vessel 1 --> Truck moved container 53 of Vessel 1 at 165.00
+Vessel 2 --> Truck moved container 53 of Vessel 2 at 165.00
+Vessel 1 --> Vessel 1 crane moved container 55 using truck at 165.00
+Vessel 2 --> Vessel 2 crane moved container 55 using truck at 165.00
+Vessel 1 --> Truck moved container 54 of Vessel 1 at 168.00
+Vessel 2 --> Truck moved container 54 of Vessel 2 at 168.00
+Vessel 1 --> Vessel 1 crane moved container 56 using truck at 168.00
+Vessel 2 --> Vessel 2 crane moved container 56 using truck at 168.00
+Vessel 1 --> Truck moved container 55 of Vessel 1 at 171.00
+Vessel 2 --> Truck moved container 55 of Vessel 2 at 171.00
+Vessel 1 --> Vessel 1 crane moved container 57 using truck at 171.00
+Vessel 2 --> Vessel 2 crane moved container 57 using truck at 171.00
+Vessel 1 --> Truck moved container 56 of Vessel 1 at 174.00
+Vessel 2 --> Truck moved container 56 of Vessel 2 at 174.00
+Vessel 1 --> Vessel 1 crane moved container 58 using truck at 174.00
+Vessel 2 --> Vessel 2 crane moved container 58 using truck at 174.00
+Vessel 1 --> Truck moved container 57 of Vessel 1 at 177.00
+Vessel 2 --> Truck moved container 57 of Vessel 2 at 177.00
+Vessel 1 --> Vessel 1 crane moved container 59 using truck at 177.00
+Vessel 2 --> Vessel 2 crane moved container 59 using truck at 177.00
+Vessel 1 --> Truck moved container 58 of Vessel 1 at 180.00
+Vessel 2 --> Truck moved container 58 of Vessel 2 at 180.00
+Vessel 1 --> Vessel 1 crane moved container 60 using truck at 180.00
+Vessel 2 --> Vessel 2 crane moved container 60 using truck at 180.00
+Vessel 1 --> Truck moved container 59 of Vessel 1 at 183.00
+Vessel 2 --> Truck moved container 59 of Vessel 2 at 183.00
+Vessel 1 --> Vessel 1 crane moved container 61 using truck at 183.00
+Vessel 2 --> Vessel 2 crane moved container 61 using truck at 183.00
+Vessel 1 --> Truck moved container 60 of Vessel 1 at 186.00
+Vessel 2 --> Truck moved container 60 of Vessel 2 at 186.00
+Vessel 1 --> Vessel 1 crane moved container 62 using truck at 186.00
+Vessel 2 --> Vessel 2 crane moved container 62 using truck at 186.00
+Vessel 1 --> Truck moved container 61 of Vessel 1 at 189.00
+Vessel 2 --> Truck moved container 61 of Vessel 2 at 189.00
+Vessel 1 --> Vessel 1 crane moved container 63 using truck at 189.00
+Vessel 2 --> Vessel 2 crane moved container 63 using truck at 189.00
+Vessel 1 --> Truck moved container 62 of Vessel 1 at 192.00
+Vessel 2 --> Truck moved container 62 of Vessel 2 at 192.00
+Vessel 1 --> Vessel 1 crane moved container 64 using truck at 192.00
+Vessel 2 --> Vessel 2 crane moved container 64 using truck at 192.00
+Vessel 1 --> Truck moved container 63 of Vessel 1 at 195.00
+Vessel 2 --> Truck moved container 63 of Vessel 2 at 195.00
+Vessel 1 --> Vessel 1 crane moved container 65 using truck at 195.00
+Vessel 2 --> Vessel 2 crane moved container 65 using truck at 195.00
+Vessel 1 --> Truck moved container 64 of Vessel 1 at 198.00
+Vessel 2 --> Truck moved container 64 of Vessel 2 at 198.00
+Vessel 1 --> Vessel 1 crane moved container 66 using truck at 198.00
+Vessel 2 --> Vessel 2 crane moved container 66 using truck at 198.00
+Vessel 1 --> Truck moved container 65 of Vessel 1 at 201.00
+Vessel 2 --> Truck moved container 65 of Vessel 2 at 201.00
+Vessel 1 --> Vessel 1 crane moved container 67 using truck at 201.00
+Vessel 2 --> Vessel 2 crane moved container 67 using truck at 201.00
+Vessel 1 --> Truck moved container 66 of Vessel 1 at 204.00
+Vessel 2 --> Truck moved container 66 of Vessel 2 at 204.00
+Vessel 1 --> Vessel 1 crane moved container 68 using truck at 204.00
+Vessel 2 --> Vessel 2 crane moved container 68 using truck at 204.00
+Vessel 1 --> Truck moved container 67 of Vessel 1 at 207.00
+Vessel 2 --> Truck moved container 67 of Vessel 2 at 207.00
+Vessel 1 --> Vessel 1 crane moved container 69 using truck at 207.00
+Vessel 2 --> Vessel 2 crane moved container 69 using truck at 207.00
+Vessel 1 --> Truck moved container 68 of Vessel 1 at 210.00
+Vessel 2 --> Truck moved container 68 of Vessel 2 at 210.00
+Vessel 1 --> Vessel 1 crane moved container 70 using truck at 210.00
+Vessel 2 --> Vessel 2 crane moved container 70 using truck at 210.00
+Vessel 1 --> Truck moved container 69 of Vessel 1 at 213.00
+Vessel 2 --> Truck moved container 69 of Vessel 2 at 213.00
+Vessel 1 --> Vessel 1 crane moved container 71 using truck at 213.00
+Vessel 2 --> Vessel 2 crane moved container 71 using truck at 213.00
+Vessel 1 --> Truck moved container 70 of Vessel 1 at 216.00
+Vessel 2 --> Truck moved container 70 of Vessel 2 at 216.00
+Vessel 1 --> Vessel 1 crane moved container 72 using truck at 216.00
+Vessel 2 --> Vessel 2 crane moved container 72 using truck at 216.00
+Vessel 1 --> Truck moved container 71 of Vessel 1 at 219.00
+Vessel 2 --> Truck moved container 71 of Vessel 2 at 219.00
+Vessel 1 --> Vessel 1 crane moved container 73 using truck at 219.00
+Vessel 2 --> Vessel 2 crane moved container 73 using truck at 219.00
+Vessel 1 --> Truck moved container 72 of Vessel 1 at 222.00
+Vessel 2 --> Truck moved container 72 of Vessel 2 at 222.00
+Vessel 1 --> Vessel 1 crane moved container 74 using truck at 222.00
+Vessel 2 --> Vessel 2 crane moved container 74 using truck at 222.00
+Vessel 1 --> Truck moved container 73 of Vessel 1 at 225.00
+Vessel 2 --> Truck moved container 73 of Vessel 2 at 225.00
+Vessel 1 --> Vessel 1 crane moved container 75 using truck at 225.00
+Vessel 2 --> Vessel 2 crane moved container 75 using truck at 225.00
+Vessel 1 --> Truck moved container 74 of Vessel 1 at 228.00
+Vessel 2 --> Truck moved container 74 of Vessel 2 at 228.00
+Vessel 1 --> Vessel 1 crane moved container 76 using truck at 228.00
+Vessel 2 --> Vessel 2 crane moved container 76 using truck at 228.00
+Vessel 1 --> Truck moved container 75 of Vessel 1 at 231.00
+Vessel 2 --> Truck moved container 75 of Vessel 2 at 231.00
+Vessel 1 --> Vessel 1 crane moved container 77 using truck at 231.00
+Vessel 2 --> Vessel 2 crane moved container 77 using truck at 231.00
+Vessel 1 --> Truck moved container 76 of Vessel 1 at 234.00
+Vessel 2 --> Truck moved container 76 of Vessel 2 at 234.00
+Vessel 1 --> Vessel 1 crane moved container 78 using truck at 234.00
+Vessel 2 --> Vessel 2 crane moved container 78 using truck at 234.00
+Vessel 1 --> Truck moved container 77 of Vessel 1 at 237.00
+Vessel 2 --> Truck moved container 77 of Vessel 2 at 237.00
+Vessel 1 --> Vessel 1 crane moved container 79 using truck at 237.00
+Vessel 2 --> Vessel 2 crane moved container 79 using truck at 237.00
+Vessel 1 --> Truck moved container 78 of Vessel 1 at 240.00
+Vessel 2 --> Truck moved container 78 of Vessel 2 at 240.00
+Vessel 1 --> Vessel 1 crane moved container 80 using truck at 240.00
+Vessel 2 --> Vessel 2 crane moved container 80 using truck at 240.00
+Vessel 1 --> Truck moved container 79 of Vessel 1 at 243.00
+Vessel 2 --> Truck moved container 79 of Vessel 2 at 243.00
+Vessel 1 --> Vessel 1 crane moved container 81 using truck at 243.00
+Vessel 2 --> Vessel 2 crane moved container 81 using truck at 243.00
+Vessel 1 --> Truck moved container 80 of Vessel 1 at 246.00
+Vessel 2 --> Truck moved container 80 of Vessel 2 at 246.00
+Vessel 1 --> Vessel 1 crane moved container 82 using truck at 246.00
+Vessel 2 --> Vessel 2 crane moved container 82 using truck at 246.00
+Vessel 1 --> Truck moved container 81 of Vessel 1 at 249.00
+Vessel 2 --> Truck moved container 81 of Vessel 2 at 249.00
+Vessel 1 --> Vessel 1 crane moved container 83 using truck at 249.00
+Vessel 2 --> Vessel 2 crane moved container 83 using truck at 249.00
+Vessel 1 --> Truck moved container 82 of Vessel 1 at 252.00
+Vessel 2 --> Truck moved container 82 of Vessel 2 at 252.00
+Vessel 1 --> Vessel 1 crane moved container 84 using truck at 252.00
+Vessel 2 --> Vessel 2 crane moved container 84 using truck at 252.00
+Vessel 1 --> Truck moved container 83 of Vessel 1 at 255.00
+Vessel 2 --> Truck moved container 83 of Vessel 2 at 255.00
+Vessel 1 --> Vessel 1 crane moved container 85 using truck at 255.00
+Vessel 2 --> Vessel 2 crane moved container 85 using truck at 255.00
+Vessel 1 --> Truck moved container 84 of Vessel 1 at 258.00
+Vessel 2 --> Truck moved container 84 of Vessel 2 at 258.00
+Vessel 1 --> Vessel 1 crane moved container 86 using truck at 258.00
+Vessel 2 --> Vessel 2 crane moved container 86 using truck at 258.00
+Vessel 1 --> Truck moved container 85 of Vessel 1 at 261.00
+Vessel 2 --> Truck moved container 85 of Vessel 2 at 261.00
+Vessel 1 --> Vessel 1 crane moved container 87 using truck at 261.00
+Vessel 2 --> Vessel 2 crane moved container 87 using truck at 261.00
+Vessel 1 --> Truck moved container 86 of Vessel 1 at 264.00
+Vessel 2 --> Truck moved container 86 of Vessel 2 at 264.00
+Vessel 1 --> Vessel 1 crane moved container 88 using truck at 264.00
+Vessel 2 --> Vessel 2 crane moved container 88 using truck at 264.00
+Vessel 1 --> Truck moved container 87 of Vessel 1 at 267.00
+Vessel 2 --> Truck moved container 87 of Vessel 2 at 267.00
+Vessel 1 --> Vessel 1 crane moved container 89 using truck at 267.00
+Vessel 2 --> Vessel 2 crane moved container 89 using truck at 267.00
+Vessel 1 --> Truck moved container 88 of Vessel 1 at 270.00
+Vessel 2 --> Truck moved container 88 of Vessel 2 at 270.00
+Vessel 1 --> Vessel 1 crane moved container 90 using truck at 270.00
+Vessel 2 --> Vessel 2 crane moved container 90 using truck at 270.00
+Vessel 1 --> Truck moved container 89 of Vessel 1 at 273.00
+Vessel 2 --> Truck moved container 89 of Vessel 2 at 273.00
+Vessel 1 --> Vessel 1 crane moved container 91 using truck at 273.00
+Vessel 2 --> Vessel 2 crane moved container 91 using truck at 273.00
+Vessel 1 --> Truck moved container 90 of Vessel 1 at 276.00
+Vessel 2 --> Truck moved container 90 of Vessel 2 at 276.00
+Vessel 1 --> Vessel 1 crane moved container 92 using truck at 276.00
+Vessel 2 --> Vessel 2 crane moved container 92 using truck at 276.00
+Vessel 1 --> Truck moved container 91 of Vessel 1 at 279.00
+Vessel 2 --> Truck moved container 91 of Vessel 2 at 279.00
+Vessel 1 --> Vessel 1 crane moved container 93 using truck at 279.00
+Vessel 2 --> Vessel 2 crane moved container 93 using truck at 279.00
+Vessel 1 --> Truck moved container 92 of Vessel 1 at 282.00
+Vessel 2 --> Truck moved container 92 of Vessel 2 at 282.00
+Vessel 1 --> Vessel 1 crane moved container 94 using truck at 282.00
+Vessel 2 --> Vessel 2 crane moved container 94 using truck at 282.00
+Vessel 1 --> Truck moved container 93 of Vessel 1 at 285.00
+Vessel 2 --> Truck moved container 93 of Vessel 2 at 285.00
+Vessel 1 --> Vessel 1 crane moved container 95 using truck at 285.00
+Vessel 2 --> Vessel 2 crane moved container 95 using truck at 285.00
+Vessel 1 --> Truck moved container 94 of Vessel 1 at 288.00
+Vessel 2 --> Truck moved container 94 of Vessel 2 at 288.00
+Vessel 1 --> Vessel 1 crane moved container 96 using truck at 288.00
+Vessel 2 --> Vessel 2 crane moved container 96 using truck at 288.00
+Vessel 1 --> Truck moved container 95 of Vessel 1 at 291.00
+Vessel 2 --> Truck moved container 95 of Vessel 2 at 291.00
+Vessel 1 --> Vessel 1 crane moved container 97 using truck at 291.00
+Vessel 2 --> Vessel 2 crane moved container 97 using truck at 291.00
+Vessel 1 --> Truck moved container 96 of Vessel 1 at 294.00
+Vessel 2 --> Truck moved container 96 of Vessel 2 at 294.00
+Vessel 1 --> Vessel 1 crane moved container 98 using truck at 294.00
+Vessel 2 --> Vessel 2 crane moved container 98 using truck at 294.00
+Vessel 1 --> Truck moved container 97 of Vessel 1 at 297.00
+Vessel 2 --> Truck moved container 97 of Vessel 2 at 297.00
+Vessel 1 --> Vessel 1 crane moved container 99 using truck at 297.00
+Vessel 2 --> Vessel 2 crane moved container 99 using truck at 297.00
+Vessel 1 --> Truck moved container 98 of Vessel 1 at 300.00
+Vessel 2 --> Truck moved container 98 of Vessel 2 at 300.00
+Vessel 1 --> Vessel 1 crane moved container 100 using truck at 300.00
+Vessel 2 --> Vessel 2 crane moved container 100 using truck at 300.00
+Vessel 1 --> Truck moved container 99 of Vessel 1 at 303.00
+Vessel 2 --> Truck moved container 99 of Vessel 2 at 303.00
+Vessel 1 --> Vessel 1 crane moved container 101 using truck at 303.00
+Vessel 2 --> Vessel 2 crane moved container 101 using truck at 303.00
+Vessel 1 --> Truck moved container 100 of Vessel 1 at 306.00
+Vessel 2 --> Truck moved container 100 of Vessel 2 at 306.00
+Vessel 1 --> Vessel 1 crane moved container 102 using truck at 306.00
+Vessel 2 --> Vessel 2 crane moved container 102 using truck at 306.00
+Vessel 1 --> Truck moved container 101 of Vessel 1 at 309.00
+Vessel 2 --> Truck moved container 101 of Vessel 2 at 309.00
+Vessel 1 --> Vessel 1 crane moved container 103 using truck at 309.00
+Vessel 2 --> Vessel 2 crane moved container 103 using truck at 309.00
+Vessel 1 --> Truck moved container 102 of Vessel 1 at 312.00
+Vessel 2 --> Truck moved container 102 of Vessel 2 at 312.00
+Vessel 1 --> Vessel 1 crane moved container 104 using truck at 312.00
+Vessel 2 --> Vessel 2 crane moved container 104 using truck at 312.00
+Vessel 1 --> Truck moved container 103 of Vessel 1 at 315.00
+Vessel 2 --> Truck moved container 103 of Vessel 2 at 315.00
+Vessel 1 --> Vessel 1 crane moved container 105 using truck at 315.00
+Vessel 2 --> Vessel 2 crane moved container 105 using truck at 315.00
+Vessel 1 --> Truck moved container 104 of Vessel 1 at 318.00
+Vessel 2 --> Truck moved container 104 of Vessel 2 at 318.00
+Vessel 1 --> Vessel 1 crane moved container 106 using truck at 318.00
+Vessel 2 --> Vessel 2 crane moved container 106 using truck at 318.00
+Vessel 1 --> Truck moved container 105 of Vessel 1 at 321.00
+Vessel 2 --> Truck moved container 105 of Vessel 2 at 321.00
+Vessel 1 --> Vessel 1 crane moved container 107 using truck at 321.00
+Vessel 2 --> Vessel 2 crane moved container 107 using truck at 321.00
+Vessel 1 --> Truck moved container 106 of Vessel 1 at 324.00
+Vessel 2 --> Truck moved container 106 of Vessel 2 at 324.00
+Vessel 1 --> Vessel 1 crane moved container 108 using truck at 324.00
+Vessel 2 --> Vessel 2 crane moved container 108 using truck at 324.00
+Vessel 1 --> Truck moved container 107 of Vessel 1 at 327.00
+Vessel 2 --> Truck moved container 107 of Vessel 2 at 327.00
+Vessel 1 --> Vessel 1 crane moved container 109 using truck at 327.00
+Vessel 2 --> Vessel 2 crane moved container 109 using truck at 327.00
+Vessel 1 --> Truck moved container 108 of Vessel 1 at 330.00
+Vessel 2 --> Truck moved container 108 of Vessel 2 at 330.00
+Vessel 1 --> Vessel 1 crane moved container 110 using truck at 330.00
+Vessel 2 --> Vessel 2 crane moved container 110 using truck at 330.00
+Vessel 1 --> Truck moved container 109 of Vessel 1 at 333.00
+Vessel 2 --> Truck moved container 109 of Vessel 2 at 333.00
+Vessel 1 --> Vessel 1 crane moved container 111 using truck at 333.00
+Vessel 2 --> Vessel 2 crane moved container 111 using truck at 333.00
+Vessel 1 --> Truck moved container 110 of Vessel 1 at 336.00
+Vessel 2 --> Truck moved container 110 of Vessel 2 at 336.00
+Vessel 1 --> Vessel 1 crane moved container 112 using truck at 336.00
+Vessel 2 --> Vessel 2 crane moved container 112 using truck at 336.00
+Vessel 1 --> Truck moved container 111 of Vessel 1 at 339.00
+Vessel 2 --> Truck moved container 111 of Vessel 2 at 339.00
+Vessel 1 --> Vessel 1 crane moved container 113 using truck at 339.00
+Vessel 2 --> Vessel 2 crane moved container 113 using truck at 339.00
+Vessel 1 --> Truck moved container 112 of Vessel 1 at 342.00
+Vessel 2 --> Truck moved container 112 of Vessel 2 at 342.00
+Vessel 1 --> Vessel 1 crane moved container 114 using truck at 342.00
+Vessel 2 --> Vessel 2 crane moved container 114 using truck at 342.00
+Vessel 1 --> Truck moved container 113 of Vessel 1 at 345.00
+Vessel 2 --> Truck moved container 113 of Vessel 2 at 345.00
+Vessel 1 --> Vessel 1 crane moved container 115 using truck at 345.00
+Vessel 2 --> Vessel 2 crane moved container 115 using truck at 345.00
+Vessel 1 --> Truck moved container 114 of Vessel 1 at 348.00
+Vessel 2 --> Truck moved container 114 of Vessel 2 at 348.00
+Vessel 1 --> Vessel 1 crane moved container 116 using truck at 348.00
+Vessel 2 --> Vessel 2 crane moved container 116 using truck at 348.00
+Vessel 1 --> Truck moved container 115 of Vessel 1 at 351.00
+Vessel 2 --> Truck moved container 115 of Vessel 2 at 351.00
+Vessel 1 --> Vessel 1 crane moved container 117 using truck at 351.00
+Vessel 2 --> Vessel 2 crane moved container 117 using truck at 351.00
+Vessel 1 --> Truck moved container 116 of Vessel 1 at 354.00
+Vessel 2 --> Truck moved container 116 of Vessel 2 at 354.00
+Vessel 1 --> Vessel 1 crane moved container 118 using truck at 354.00
+Vessel 2 --> Vessel 2 crane moved container 118 using truck at 354.00
+Vessel 1 --> Truck moved container 117 of Vessel 1 at 357.00
+Vessel 2 --> Truck moved container 117 of Vessel 2 at 357.00
+Vessel 1 --> Vessel 1 crane moved container 119 using truck at 357.00
+Vessel 2 --> Vessel 2 crane moved container 119 using truck at 357.00
+Vessel 1 --> Truck moved container 118 of Vessel 1 at 360.00
+Vessel 2 --> Truck moved container 118 of Vessel 2 at 360.00
+Vessel 1 --> Vessel 1 crane moved container 120 using truck at 360.00
+Vessel 2 --> Vessel 2 crane moved container 120 using truck at 360.00
+Vessel 1 --> Truck moved container 119 of Vessel 1 at 363.00
+Vessel 2 --> Truck moved container 119 of Vessel 2 at 363.00
+Vessel 1 --> Vessel 1 crane moved container 121 using truck at 363.00
+Vessel 2 --> Vessel 2 crane moved container 121 using truck at 363.00
+Vessel 1 --> Truck moved container 120 of Vessel 1 at 366.00
+Vessel 2 --> Truck moved container 120 of Vessel 2 at 366.00
+Vessel 1 --> Vessel 1 crane moved container 122 using truck at 366.00
+Vessel 2 --> Vessel 2 crane moved container 122 using truck at 366.00
+Vessel 1 --> Truck moved container 121 of Vessel 1 at 369.00
+Vessel 2 --> Truck moved container 121 of Vessel 2 at 369.00
+Vessel 1 --> Vessel 1 crane moved container 123 using truck at 369.00
+Vessel 2 --> Vessel 2 crane moved container 123 using truck at 369.00
+Vessel 1 --> Truck moved container 122 of Vessel 1 at 372.00
+Vessel 2 --> Truck moved container 122 of Vessel 2 at 372.00
+Vessel 1 --> Vessel 1 crane moved container 124 using truck at 372.00
+Vessel 2 --> Vessel 2 crane moved container 124 using truck at 372.00
+Vessel 1 --> Truck moved container 123 of Vessel 1 at 375.00
+Vessel 2 --> Truck moved container 123 of Vessel 2 at 375.00
+Vessel 1 --> Vessel 1 crane moved container 125 using truck at 375.00
+Vessel 2 --> Vessel 2 crane moved container 125 using truck at 375.00
+Vessel 1 --> Truck moved container 124 of Vessel 1 at 378.00
+Vessel 2 --> Truck moved container 124 of Vessel 2 at 378.00
+Vessel 1 --> Vessel 1 crane moved container 126 using truck at 378.00
+Vessel 2 --> Vessel 2 crane moved container 126 using truck at 378.00
+Vessel 1 --> Truck moved container 125 of Vessel 1 at 381.00
+Vessel 2 --> Truck moved container 125 of Vessel 2 at 381.00
+Vessel 1 --> Vessel 1 crane moved container 127 using truck at 381.00
+Vessel 2 --> Vessel 2 crane moved container 127 using truck at 381.00
+Vessel 1 --> Truck moved container 126 of Vessel 1 at 384.00
+Vessel 2 --> Truck moved container 126 of Vessel 2 at 384.00
+Vessel 1 --> Vessel 1 crane moved container 128 using truck at 384.00
+Vessel 2 --> Vessel 2 crane moved container 128 using truck at 384.00
+Vessel 1 --> Truck moved container 127 of Vessel 1 at 387.00
+Vessel 2 --> Truck moved container 127 of Vessel 2 at 387.00
+Vessel 1 --> Vessel 1 crane moved container 129 using truck at 387.00
+Vessel 2 --> Vessel 2 crane moved container 129 using truck at 387.00
+Vessel 1 --> Truck moved container 128 of Vessel 1 at 390.00
+Vessel 2 --> Truck moved container 128 of Vessel 2 at 390.00
+Vessel 1 --> Vessel 1 crane moved container 130 using truck at 390.00
+Vessel 2 --> Vessel 2 crane moved container 130 using truck at 390.00
+Vessel 1 --> Truck moved container 129 of Vessel 1 at 393.00
+Vessel 2 --> Truck moved container 129 of Vessel 2 at 393.00
+Vessel 1 --> Vessel 1 crane moved container 131 using truck at 393.00
+Vessel 2 --> Vessel 2 crane moved container 131 using truck at 393.00
+Vessel 1 --> Truck moved container 130 of Vessel 1 at 396.00
+Vessel 2 --> Truck moved container 130 of Vessel 2 at 396.00
+Vessel 1 --> Vessel 1 crane moved container 132 using truck at 396.00
+Vessel 2 --> Vessel 2 crane moved container 132 using truck at 396.00
+Vessel 1 --> Truck moved container 131 of Vessel 1 at 399.00
+Vessel 2 --> Truck moved container 131 of Vessel 2 at 399.00
+Vessel 1 --> Vessel 1 crane moved container 133 using truck at 399.00
+Vessel 2 --> Vessel 2 crane moved container 133 using truck at 399.00
+Vessel 1 --> Truck moved container 132 of Vessel 1 at 402.00
+Vessel 2 --> Truck moved container 132 of Vessel 2 at 402.00
+Vessel 1 --> Vessel 1 crane moved container 134 using truck at 402.00
+Vessel 2 --> Vessel 2 crane moved container 134 using truck at 402.00
+Vessel 1 --> Truck moved container 133 of Vessel 1 at 405.00
+Vessel 2 --> Truck moved container 133 of Vessel 2 at 405.00
+Vessel 1 --> Vessel 1 crane moved container 135 using truck at 405.00
+Vessel 2 --> Vessel 2 crane moved container 135 using truck at 405.00
+Vessel 1 --> Truck moved container 134 of Vessel 1 at 408.00
+Vessel 2 --> Truck moved container 134 of Vessel 2 at 408.00
+Vessel 1 --> Vessel 1 crane moved container 136 using truck at 408.00
+Vessel 2 --> Vessel 2 crane moved container 136 using truck at 408.00
+Vessel 1 --> Truck moved container 135 of Vessel 1 at 411.00
+Vessel 2 --> Truck moved container 135 of Vessel 2 at 411.00
+Vessel 1 --> Vessel 1 crane moved container 137 using truck at 411.00
+Vessel 2 --> Vessel 2 crane moved container 137 using truck at 411.00
+Vessel 1 --> Truck moved container 136 of Vessel 1 at 414.00
+Vessel 2 --> Truck moved container 136 of Vessel 2 at 414.00
+Vessel 1 --> Vessel 1 crane moved container 138 using truck at 414.00
+Vessel 2 --> Vessel 2 crane moved container 138 using truck at 414.00
+Vessel 1 --> Truck moved container 137 of Vessel 1 at 417.00
+Vessel 2 --> Truck moved container 137 of Vessel 2 at 417.00
+Vessel 1 --> Vessel 1 crane moved container 139 using truck at 417.00
+Vessel 2 --> Vessel 2 crane moved container 139 using truck at 417.00
+Vessel 1 --> Truck moved container 138 of Vessel 1 at 420.00
+Vessel 2 --> Truck moved container 138 of Vessel 2 at 420.00
+Vessel 1 --> Vessel 1 crane moved container 140 using truck at 420.00
+Vessel 2 --> Vessel 2 crane moved container 140 using truck at 420.00
+Vessel 1 --> Truck moved container 139 of Vessel 1 at 423.00
+Vessel 2 --> Truck moved container 139 of Vessel 2 at 423.00
+Vessel 1 --> Vessel 1 crane moved container 141 using truck at 423.00
+Vessel 2 --> Vessel 2 crane moved container 141 using truck at 423.00
+Vessel 1 --> Truck moved container 140 of Vessel 1 at 426.00
+Vessel 2 --> Truck moved container 140 of Vessel 2 at 426.00
+Vessel 1 --> Vessel 1 crane moved container 142 using truck at 426.00
+Vessel 2 --> Vessel 2 crane moved container 142 using truck at 426.00
+Vessel 1 --> Truck moved container 141 of Vessel 1 at 429.00
+Vessel 2 --> Truck moved container 141 of Vessel 2 at 429.00
+Vessel 1 --> Vessel 1 crane moved container 143 using truck at 429.00
+Vessel 2 --> Vessel 2 crane moved container 143 using truck at 429.00
+Vessel 1 --> Truck moved container 142 of Vessel 1 at 432.00
+Vessel 2 --> Truck moved container 142 of Vessel 2 at 432.00
+Vessel 1 --> Vessel 1 crane moved container 144 using truck at 432.00
+Vessel 2 --> Vessel 2 crane moved container 144 using truck at 432.00
+Vessel 1 --> Truck moved container 143 of Vessel 1 at 435.00
+Vessel 2 --> Truck moved container 143 of Vessel 2 at 435.00
+Vessel 1 --> Vessel 1 crane moved container 145 using truck at 435.00
+Vessel 2 --> Vessel 2 crane moved container 145 using truck at 435.00
+Vessel 1 --> Truck moved container 144 of Vessel 1 at 438.00
+Vessel 2 --> Truck moved container 144 of Vessel 2 at 438.00
+Vessel 1 --> Vessel 1 crane moved container 146 using truck at 438.00
+Vessel 2 --> Vessel 2 crane moved container 146 using truck at 438.00
+Vessel 1 --> Truck moved container 145 of Vessel 1 at 441.00
+Vessel 2 --> Truck moved container 145 of Vessel 2 at 441.00
+Vessel 1 --> Vessel 1 crane moved container 147 using truck at 441.00
+Vessel 2 --> Vessel 2 crane moved container 147 using truck at 441.00
+Vessel 1 --> Truck moved container 146 of Vessel 1 at 444.00
+Vessel 2 --> Truck moved container 146 of Vessel 2 at 444.00
+Vessel 1 --> Vessel 1 crane moved container 148 using truck at 444.00
+Vessel 2 --> Vessel 2 crane moved container 148 using truck at 444.00
+Vessel 1 --> Truck moved container 147 of Vessel 1 at 447.00
+Vessel 2 --> Truck moved container 147 of Vessel 2 at 447.00
+Vessel 1 --> Vessel 1 crane moved container 149 using truck at 447.00
+Vessel 2 --> Vessel 2 crane moved container 149 using truck at 447.00
+Vessel 1 --> Truck moved container 148 of Vessel 1 at 450.00
+Vessel 2 --> Truck moved container 148 of Vessel 2 at 450.00
+Vessel 1 --> Vessel 1 crane moved container 150 using truck at 450.00
+Vessel 2 --> Vessel 2 crane moved container 150 using truck at 450.00
+
+Vessel 1 --> The Vessel 1 is unloaded succesfully and had left the port at 450.00
+
+
+Vessel 2 --> The Vessel 2 is unloaded succesfully and had left the port at 450.00
+
+Vessel 3 berthed at 450.00
+The Unloading of Vessel 3 has been successfully started at 450.00
+
+Vessel 1 --> Truck moved container 149 of Vessel 1 at 453.00
+Vessel 2 --> Truck moved container 149 of Vessel 2 at 453.00
+Vessel 3 --> Vessel 3 crane moved container 1 using truck at 453.00
+Vessel 1 --> Truck moved container 150 of Vessel 1 at 456.00
+Vessel 2 --> Truck moved container 150 of Vessel 2 at 456.00
+Vessel 3 --> Vessel 3 crane moved container 2 using truck at 456.00
+Vessel 3 --> Truck moved container 1 of Vessel 3 at 459.00
+Vessel 3 --> Vessel 3 crane moved container 3 using truck at 459.00
+Vessel 3 --> Truck moved container 2 of Vessel 3 at 462.00
+Vessel 3 --> Vessel 3 crane moved container 4 using truck at 462.00
+Vessel 3 --> Truck moved container 3 of Vessel 3 at 465.00
+Vessel 3 --> Vessel 3 crane moved container 5 using truck at 465.00
+Vessel 3 --> Truck moved container 4 of Vessel 3 at 468.00
+Vessel 3 --> Vessel 3 crane moved container 6 using truck at 468.00
+Vessel 3 --> Truck moved container 5 of Vessel 3 at 471.00
+Vessel 3 --> Vessel 3 crane moved container 7 using truck at 471.00
+Vessel 3 --> Truck moved container 6 of Vessel 3 at 474.00
+Vessel 3 --> Vessel 3 crane moved container 8 using truck at 474.00
+Vessel 3 --> Truck moved container 7 of Vessel 3 at 477.00
+Vessel 3 --> Vessel 3 crane moved container 9 using truck at 477.00
+Vessel 3 --> Truck moved container 8 of Vessel 3 at 480.00
+Vessel 3 --> Vessel 3 crane moved container 10 using truck at 480.00
+Vessel 3 --> Truck moved container 9 of Vessel 3 at 483.00
+Vessel 3 --> Vessel 3 crane moved container 11 using truck at 483.00
+Vessel 3 --> Truck moved container 10 of Vessel 3 at 486.00
+Vessel 3 --> Vessel 3 crane moved container 12 using truck at 486.00
+Vessel 3 --> Truck moved container 11 of Vessel 3 at 489.00
+Vessel 3 --> Vessel 3 crane moved container 13 using truck at 489.00
+Vessel 3 --> Truck moved container 12 of Vessel 3 at 492.00
+Vessel 3 --> Vessel 3 crane moved container 14 using truck at 492.00
+Vessel 3 --> Truck moved container 13 of Vessel 3 at 495.00
+Vessel 3 --> Vessel 3 crane moved container 15 using truck at 495.00
+Vessel 3 --> Truck moved container 14 of Vessel 3 at 498.00
+Vessel 3 --> Vessel 3 crane moved container 16 using truck at 498.00
+Vessel 3 --> Truck moved container 15 of Vessel 3 at 501.00
+Vessel 3 --> Vessel 3 crane moved container 17 using truck at 501.00
+Vessel 3 --> Truck moved container 16 of Vessel 3 at 504.00
+Vessel 3 --> Vessel 3 crane moved container 18 using truck at 504.00
+Vessel 3 --> Truck moved container 17 of Vessel 3 at 507.00
+Vessel 3 --> Vessel 3 crane moved container 19 using truck at 507.00
+Vessel 3 --> Truck moved container 18 of Vessel 3 at 510.00
+Vessel 3 --> Vessel 3 crane moved container 20 using truck at 510.00
+Vessel 3 --> Truck moved container 19 of Vessel 3 at 513.00
+Vessel 3 --> Vessel 3 crane moved container 21 using truck at 513.00
+Vessel 3 --> Truck moved container 20 of Vessel 3 at 516.00
+Vessel 3 --> Vessel 3 crane moved container 22 using truck at 516.00
+Vessel 3 --> Truck moved container 21 of Vessel 3 at 519.00
+Vessel 3 --> Vessel 3 crane moved container 23 using truck at 519.00
+Vessel 3 --> Truck moved container 22 of Vessel 3 at 522.00
+Vessel 3 --> Vessel 3 crane moved container 24 using truck at 522.00
+Vessel 3 --> Truck moved container 23 of Vessel 3 at 525.00
+Vessel 3 --> Vessel 3 crane moved container 25 using truck at 525.00
+Vessel 3 --> Truck moved container 24 of Vessel 3 at 528.00
+Vessel 3 --> Vessel 3 crane moved container 26 using truck at 528.00
+Vessel 3 --> Truck moved container 25 of Vessel 3 at 531.00
+Vessel 3 --> Vessel 3 crane moved container 27 using truck at 531.00
+Vessel 3 --> Truck moved container 26 of Vessel 3 at 534.00
+Vessel 3 --> Vessel 3 crane moved container 28 using truck at 534.00
+Vessel 3 --> Truck moved container 27 of Vessel 3 at 537.00
+Vessel 3 --> Vessel 3 crane moved container 29 using truck at 537.00
+Vessel 3 --> Truck moved container 28 of Vessel 3 at 540.00
+Vessel 3 --> Vessel 3 crane moved container 30 using truck at 540.00
+Vessel 3 --> Truck moved container 29 of Vessel 3 at 543.00
+Vessel 3 --> Vessel 3 crane moved container 31 using truck at 543.00
+Vessel 3 --> Truck moved container 30 of Vessel 3 at 546.00
+Vessel 3 --> Vessel 3 crane moved container 32 using truck at 546.00
+Vessel 3 --> Truck moved container 31 of Vessel 3 at 549.00
+Vessel 3 --> Vessel 3 crane moved container 33 using truck at 549.00
+Vessel 3 --> Truck moved container 32 of Vessel 3 at 552.00
+Vessel 3 --> Vessel 3 crane moved container 34 using truck at 552.00
+Vessel 3 --> Truck moved container 33 of Vessel 3 at 555.00
+Vessel 3 --> Vessel 3 crane moved container 35 using truck at 555.00
+Vessel 3 --> Truck moved container 34 of Vessel 3 at 558.00
+Vessel 3 --> Vessel 3 crane moved container 36 using truck at 558.00
+Vessel 3 --> Truck moved container 35 of Vessel 3 at 561.00
+Vessel 3 --> Vessel 3 crane moved container 37 using truck at 561.00
+Vessel 3 --> Truck moved container 36 of Vessel 3 at 564.00
+Vessel 3 --> Vessel 3 crane moved container 38 using truck at 564.00
+Vessel 3 --> Truck moved container 37 of Vessel 3 at 567.00
+Vessel 3 --> Vessel 3 crane moved container 39 using truck at 567.00
+Vessel 3 --> Truck moved container 38 of Vessel 3 at 570.00
+Vessel 3 --> Vessel 3 crane moved container 40 using truck at 570.00
+Vessel 3 --> Truck moved container 39 of Vessel 3 at 573.00
+Vessel 3 --> Vessel 3 crane moved container 41 using truck at 573.00
+Vessel 3 --> Truck moved container 40 of Vessel 3 at 576.00
+Vessel 3 --> Vessel 3 crane moved container 42 using truck at 576.00
+Vessel 3 --> Truck moved container 41 of Vessel 3 at 579.00
+Vessel 3 --> Vessel 3 crane moved container 43 using truck at 579.00
+Vessel 3 --> Truck moved container 42 of Vessel 3 at 582.00
+Vessel 3 --> Vessel 3 crane moved container 44 using truck at 582.00
+Vessel 3 --> Truck moved container 43 of Vessel 3 at 585.00
+Vessel 3 --> Vessel 3 crane moved container 45 using truck at 585.00
+Vessel 3 --> Truck moved container 44 of Vessel 3 at 588.00
+Vessel 3 --> Vessel 3 crane moved container 46 using truck at 588.00
+Vessel 3 --> Truck moved container 45 of Vessel 3 at 591.00
+Vessel 3 --> Vessel 3 crane moved container 47 using truck at 591.00
+Vessel 4 berthed at 591.00
+The Unloading of Vessel 4 has been successfully started at 591.00
+
+Vessel 3 --> Truck moved container 46 of Vessel 3 at 594.00
+Vessel 4 --> Vessel 4 crane moved container 1 using truck at 594.00
+Vessel 3 --> Vessel 3 crane moved container 48 using truck at 594.00
+Vessel 3 --> Truck moved container 47 of Vessel 3 at 597.00
+Vessel 4 --> Vessel 4 crane moved container 2 using truck at 597.00
+Vessel 3 --> Vessel 3 crane moved container 49 using truck at 597.00
+Vessel 4 --> Truck moved container 1 of Vessel 4 at 600.00
+Vessel 3 --> Truck moved container 48 of Vessel 3 at 600.00
+Vessel 4 --> Vessel 4 crane moved container 3 using truck at 600.00
+Vessel 3 --> Vessel 3 crane moved container 50 using truck at 600.00
+Vessel 4 --> Truck moved container 2 of Vessel 4 at 603.00
+Vessel 3 --> Truck moved container 49 of Vessel 3 at 603.00
+Vessel 4 --> Vessel 4 crane moved container 4 using truck at 603.00
+Vessel 3 --> Vessel 3 crane moved container 51 using truck at 603.00
+Vessel 4 --> Truck moved container 3 of Vessel 4 at 606.00
+Vessel 3 --> Truck moved container 50 of Vessel 3 at 606.00
+Vessel 4 --> Vessel 4 crane moved container 5 using truck at 606.00
+Vessel 3 --> Vessel 3 crane moved container 52 using truck at 606.00
+Vessel 4 --> Truck moved container 4 of Vessel 4 at 609.00
+Vessel 3 --> Truck moved container 51 of Vessel 3 at 609.00
+Vessel 4 --> Vessel 4 crane moved container 6 using truck at 609.00
+Vessel 3 --> Vessel 3 crane moved container 53 using truck at 609.00
+Vessel 4 --> Truck moved container 5 of Vessel 4 at 612.00
+Vessel 3 --> Truck moved container 52 of Vessel 3 at 612.00
+Vessel 4 --> Vessel 4 crane moved container 7 using truck at 612.00
+Vessel 3 --> Vessel 3 crane moved container 54 using truck at 612.00
+Vessel 4 --> Truck moved container 6 of Vessel 4 at 615.00
+Vessel 3 --> Truck moved container 53 of Vessel 3 at 615.00
+Vessel 4 --> Vessel 4 crane moved container 8 using truck at 615.00
+Vessel 3 --> Vessel 3 crane moved container 55 using truck at 615.00
+Vessel 4 --> Truck moved container 7 of Vessel 4 at 618.00
+Vessel 3 --> Truck moved container 54 of Vessel 3 at 618.00
+Vessel 4 --> Vessel 4 crane moved container 9 using truck at 618.00
+Vessel 3 --> Vessel 3 crane moved container 56 using truck at 618.00
+Vessel 4 --> Truck moved container 8 of Vessel 4 at 621.00
+Vessel 3 --> Truck moved container 55 of Vessel 3 at 621.00
+Vessel 4 --> Vessel 4 crane moved container 10 using truck at 621.00
+Vessel 3 --> Vessel 3 crane moved container 57 using truck at 621.00
+Vessel 4 --> Truck moved container 9 of Vessel 4 at 624.00
+Vessel 3 --> Truck moved container 56 of Vessel 3 at 624.00
+Vessel 4 --> Vessel 4 crane moved container 11 using truck at 624.00
+Vessel 3 --> Vessel 3 crane moved container 58 using truck at 624.00
+Vessel 4 --> Truck moved container 10 of Vessel 4 at 627.00
+Vessel 3 --> Truck moved container 57 of Vessel 3 at 627.00
+Vessel 4 --> Vessel 4 crane moved container 12 using truck at 627.00
+Vessel 3 --> Vessel 3 crane moved container 59 using truck at 627.00
+Vessel 4 --> Truck moved container 11 of Vessel 4 at 630.00
+Vessel 3 --> Truck moved container 58 of Vessel 3 at 630.00
+Vessel 4 --> Vessel 4 crane moved container 13 using truck at 630.00
+Vessel 3 --> Vessel 3 crane moved container 60 using truck at 630.00
+Vessel 4 --> Truck moved container 12 of Vessel 4 at 633.00
+Vessel 3 --> Truck moved container 59 of Vessel 3 at 633.00
+Vessel 4 --> Vessel 4 crane moved container 14 using truck at 633.00
+Vessel 3 --> Vessel 3 crane moved container 61 using truck at 633.00
+Vessel 4 --> Truck moved container 13 of Vessel 4 at 636.00
+Vessel 3 --> Truck moved container 60 of Vessel 3 at 636.00
+Vessel 4 --> Vessel 4 crane moved container 15 using truck at 636.00
+Vessel 3 --> Vessel 3 crane moved container 62 using truck at 636.00
+Vessel 4 --> Truck moved container 14 of Vessel 4 at 639.00
+Vessel 3 --> Truck moved container 61 of Vessel 3 at 639.00
+Vessel 4 --> Vessel 4 crane moved container 16 using truck at 639.00
+Vessel 3 --> Vessel 3 crane moved container 63 using truck at 639.00
+Vessel 4 --> Truck moved container 15 of Vessel 4 at 642.00
+Vessel 3 --> Truck moved container 62 of Vessel 3 at 642.00
+Vessel 4 --> Vessel 4 crane moved container 17 using truck at 642.00
+Vessel 3 --> Vessel 3 crane moved container 64 using truck at 642.00
+Vessel 4 --> Truck moved container 16 of Vessel 4 at 645.00
+Vessel 3 --> Truck moved container 63 of Vessel 3 at 645.00
+Vessel 4 --> Vessel 4 crane moved container 18 using truck at 645.00
+Vessel 3 --> Vessel 3 crane moved container 65 using truck at 645.00
+Vessel 4 --> Truck moved container 17 of Vessel 4 at 648.00
+Vessel 3 --> Truck moved container 64 of Vessel 3 at 648.00
+Vessel 4 --> Vessel 4 crane moved container 19 using truck at 648.00
+Vessel 3 --> Vessel 3 crane moved container 66 using truck at 648.00
+Vessel 4 --> Truck moved container 18 of Vessel 4 at 651.00
+Vessel 3 --> Truck moved container 65 of Vessel 3 at 651.00
+Vessel 4 --> Vessel 4 crane moved container 20 using truck at 651.00
+Vessel 3 --> Vessel 3 crane moved container 67 using truck at 651.00
+Vessel 4 --> Truck moved container 19 of Vessel 4 at 654.00
+Vessel 3 --> Truck moved container 66 of Vessel 3 at 654.00
+Vessel 4 --> Vessel 4 crane moved container 21 using truck at 654.00
+Vessel 3 --> Vessel 3 crane moved container 68 using truck at 654.00
+Vessel 4 --> Truck moved container 20 of Vessel 4 at 657.00
+Vessel 3 --> Truck moved container 67 of Vessel 3 at 657.00
+Vessel 4 --> Vessel 4 crane moved container 22 using truck at 657.00
+Vessel 3 --> Vessel 3 crane moved container 69 using truck at 657.00
+Vessel 4 --> Truck moved container 21 of Vessel 4 at 660.00
+Vessel 3 --> Truck moved container 68 of Vessel 3 at 660.00
+Vessel 4 --> Vessel 4 crane moved container 23 using truck at 660.00
+Vessel 3 --> Vessel 3 crane moved container 70 using truck at 660.00
+Vessel 4 --> Truck moved container 22 of Vessel 4 at 663.00
+Vessel 3 --> Truck moved container 69 of Vessel 3 at 663.00
+Vessel 4 --> Vessel 4 crane moved container 24 using truck at 663.00
+Vessel 3 --> Vessel 3 crane moved container 71 using truck at 663.00
+Vessel 4 --> Truck moved container 23 of Vessel 4 at 666.00
+Vessel 3 --> Truck moved container 70 of Vessel 3 at 666.00
+Vessel 4 --> Vessel 4 crane moved container 25 using truck at 666.00
+Vessel 3 --> Vessel 3 crane moved container 72 using truck at 666.00
+Vessel 4 --> Truck moved container 24 of Vessel 4 at 669.00
+Vessel 3 --> Truck moved container 71 of Vessel 3 at 669.00
+Vessel 4 --> Vessel 4 crane moved container 26 using truck at 669.00
+Vessel 3 --> Vessel 3 crane moved container 73 using truck at 669.00
+Vessel 4 --> Truck moved container 25 of Vessel 4 at 672.00
+Vessel 3 --> Truck moved container 72 of Vessel 3 at 672.00
+Vessel 4 --> Vessel 4 crane moved container 27 using truck at 672.00
+Vessel 3 --> Vessel 3 crane moved container 74 using truck at 672.00
+Vessel 4 --> Truck moved container 26 of Vessel 4 at 675.00
+Vessel 3 --> Truck moved container 73 of Vessel 3 at 675.00
+Vessel 4 --> Vessel 4 crane moved container 28 using truck at 675.00
+Vessel 3 --> Vessel 3 crane moved container 75 using truck at 675.00
+Vessel 4 --> Truck moved container 27 of Vessel 4 at 678.00
+Vessel 3 --> Truck moved container 74 of Vessel 3 at 678.00
+Vessel 4 --> Vessel 4 crane moved container 29 using truck at 678.00
+Vessel 3 --> Vessel 3 crane moved container 76 using truck at 678.00
+Vessel 4 --> Truck moved container 28 of Vessel 4 at 681.00
+Vessel 3 --> Truck moved container 75 of Vessel 3 at 681.00
+Vessel 4 --> Vessel 4 crane moved container 30 using truck at 681.00
+Vessel 3 --> Vessel 3 crane moved container 77 using truck at 681.00
+Vessel 4 --> Truck moved container 29 of Vessel 4 at 684.00
+Vessel 3 --> Truck moved container 76 of Vessel 3 at 684.00
+Vessel 4 --> Vessel 4 crane moved container 31 using truck at 684.00
+Vessel 3 --> Vessel 3 crane moved container 78 using truck at 684.00
+Vessel 4 --> Truck moved container 30 of Vessel 4 at 687.00
+Vessel 3 --> Truck moved container 77 of Vessel 3 at 687.00
+Vessel 4 --> Vessel 4 crane moved container 32 using truck at 687.00
+Vessel 3 --> Vessel 3 crane moved container 79 using truck at 687.00
+Vessel 4 --> Truck moved container 31 of Vessel 4 at 690.00
+Vessel 3 --> Truck moved container 78 of Vessel 3 at 690.00
+Vessel 4 --> Vessel 4 crane moved container 33 using truck at 690.00
+Vessel 3 --> Vessel 3 crane moved container 80 using truck at 690.00
+Vessel 4 --> Truck moved container 32 of Vessel 4 at 693.00
+Vessel 3 --> Truck moved container 79 of Vessel 3 at 693.00
+Vessel 4 --> Vessel 4 crane moved container 34 using truck at 693.00
+Vessel 3 --> Vessel 3 crane moved container 81 using truck at 693.00
+Vessel 4 --> Truck moved container 33 of Vessel 4 at 696.00
+Vessel 3 --> Truck moved container 80 of Vessel 3 at 696.00
+Vessel 4 --> Vessel 4 crane moved container 35 using truck at 696.00
+Vessel 3 --> Vessel 3 crane moved container 82 using truck at 696.00
+Vessel 4 --> Truck moved container 34 of Vessel 4 at 699.00
+Vessel 3 --> Truck moved container 81 of Vessel 3 at 699.00
+Vessel 4 --> Vessel 4 crane moved container 36 using truck at 699.00
+Vessel 3 --> Vessel 3 crane moved container 83 using truck at 699.00
+Vessel 4 --> Truck moved container 35 of Vessel 4 at 702.00
+Vessel 3 --> Truck moved container 82 of Vessel 3 at 702.00
+Vessel 4 --> Vessel 4 crane moved container 37 using truck at 702.00
+Vessel 3 --> Vessel 3 crane moved container 84 using truck at 702.00
+Vessel 4 --> Truck moved container 36 of Vessel 4 at 705.00
+Vessel 3 --> Truck moved container 83 of Vessel 3 at 705.00
+Vessel 4 --> Vessel 4 crane moved container 38 using truck at 705.00
+Vessel 3 --> Vessel 3 crane moved container 85 using truck at 705.00
+Vessel 4 --> Truck moved container 37 of Vessel 4 at 708.00
+Vessel 3 --> Truck moved container 84 of Vessel 3 at 708.00
+Vessel 4 --> Vessel 4 crane moved container 39 using truck at 708.00
+Vessel 3 --> Vessel 3 crane moved container 86 using truck at 708.00
+Vessel 4 --> Truck moved container 38 of Vessel 4 at 711.00
+Vessel 3 --> Truck moved container 85 of Vessel 3 at 711.00
+Vessel 4 --> Vessel 4 crane moved container 40 using truck at 711.00
+Vessel 3 --> Vessel 3 crane moved container 87 using truck at 711.00
+Vessel 4 --> Truck moved container 39 of Vessel 4 at 714.00
+Vessel 3 --> Truck moved container 86 of Vessel 3 at 714.00
+Vessel 4 --> Vessel 4 crane moved container 41 using truck at 714.00
+Vessel 3 --> Vessel 3 crane moved container 88 using truck at 714.00
+Vessel 4 --> Truck moved container 40 of Vessel 4 at 717.00
+Vessel 3 --> Truck moved container 87 of Vessel 3 at 717.00
+Vessel 4 --> Vessel 4 crane moved container 42 using truck at 717.00
+Vessel 3 --> Vessel 3 crane moved container 89 using truck at 717.00
+Vessel 4 --> Truck moved container 41 of Vessel 4 at 720.00
+Vessel 3 --> Truck moved container 88 of Vessel 3 at 720.00
+Vessel 4 --> Vessel 4 crane moved container 43 using truck at 720.00
+Vessel 3 --> Vessel 3 crane moved container 90 using truck at 720.00
+Vessel 4 --> Truck moved container 42 of Vessel 4 at 723.00
+Vessel 3 --> Truck moved container 89 of Vessel 3 at 723.00
+Vessel 4 --> Vessel 4 crane moved container 44 using truck at 723.00
+Vessel 3 --> Vessel 3 crane moved container 91 using truck at 723.00
+Vessel 4 --> Truck moved container 43 of Vessel 4 at 726.00
+Vessel 3 --> Truck moved container 90 of Vessel 3 at 726.00
+Vessel 4 --> Vessel 4 crane moved container 45 using truck at 726.00
+Vessel 3 --> Vessel 3 crane moved container 92 using truck at 726.00
+Vessel 4 --> Truck moved container 44 of Vessel 4 at 729.00
+Vessel 3 --> Truck moved container 91 of Vessel 3 at 729.00
+Vessel 4 --> Vessel 4 crane moved container 46 using truck at 729.00
+Vessel 3 --> Vessel 3 crane moved container 93 using truck at 729.00
+Vessel 4 --> Truck moved container 45 of Vessel 4 at 732.00
+Vessel 3 --> Truck moved container 92 of Vessel 3 at 732.00
+Vessel 4 --> Vessel 4 crane moved container 47 using truck at 732.00
+Vessel 3 --> Vessel 3 crane moved container 94 using truck at 732.00
+Vessel 4 --> Truck moved container 46 of Vessel 4 at 735.00
+Vessel 3 --> Truck moved container 93 of Vessel 3 at 735.00
+Vessel 4 --> Vessel 4 crane moved container 48 using truck at 735.00
+Vessel 3 --> Vessel 3 crane moved container 95 using truck at 735.00
+Vessel 4 --> Truck moved container 47 of Vessel 4 at 738.00
+Vessel 3 --> Truck moved container 94 of Vessel 3 at 738.00
+Vessel 4 --> Vessel 4 crane moved container 49 using truck at 738.00
+Vessel 3 --> Vessel 3 crane moved container 96 using truck at 738.00
+Vessel 4 --> Truck moved container 48 of Vessel 4 at 741.00
+Vessel 3 --> Truck moved container 95 of Vessel 3 at 741.00
+Vessel 4 --> Vessel 4 crane moved container 50 using truck at 741.00
+Vessel 3 --> Vessel 3 crane moved container 97 using truck at 741.00
+Vessel 4 --> Truck moved container 49 of Vessel 4 at 744.00
+Vessel 3 --> Truck moved container 96 of Vessel 3 at 744.00
+Vessel 4 --> Vessel 4 crane moved container 51 using truck at 744.00
+Vessel 3 --> Vessel 3 crane moved container 98 using truck at 744.00
+Vessel 4 --> Truck moved container 50 of Vessel 4 at 747.00
+Vessel 3 --> Truck moved container 97 of Vessel 3 at 747.00
+Vessel 4 --> Vessel 4 crane moved container 52 using truck at 747.00
+Vessel 3 --> Vessel 3 crane moved container 99 using truck at 747.00
+Vessel 4 --> Truck moved container 51 of Vessel 4 at 750.00
+Vessel 3 --> Truck moved container 98 of Vessel 3 at 750.00
+Vessel 4 --> Vessel 4 crane moved container 53 using truck at 750.00
+Vessel 3 --> Vessel 3 crane moved container 100 using truck at 750.00
+Vessel 4 --> Truck moved container 52 of Vessel 4 at 753.00
+Vessel 3 --> Truck moved container 99 of Vessel 3 at 753.00
+Vessel 4 --> Vessel 4 crane moved container 54 using truck at 753.00
+Vessel 3 --> Vessel 3 crane moved container 101 using truck at 753.00
+Vessel 4 --> Truck moved container 53 of Vessel 4 at 756.00
+Vessel 3 --> Truck moved container 100 of Vessel 3 at 756.00
+Vessel 4 --> Vessel 4 crane moved container 55 using truck at 756.00
+Vessel 3 --> Vessel 3 crane moved container 102 using truck at 756.00
+Vessel 4 --> Truck moved container 54 of Vessel 4 at 759.00
+Vessel 3 --> Truck moved container 101 of Vessel 3 at 759.00
+Vessel 4 --> Vessel 4 crane moved container 56 using truck at 759.00
+Vessel 3 --> Vessel 3 crane moved container 103 using truck at 759.00
+Vessel 4 --> Truck moved container 55 of Vessel 4 at 762.00
+Vessel 3 --> Truck moved container 102 of Vessel 3 at 762.00
+Vessel 4 --> Vessel 4 crane moved container 57 using truck at 762.00
+Vessel 3 --> Vessel 3 crane moved container 104 using truck at 762.00
+Vessel 4 --> Truck moved container 56 of Vessel 4 at 765.00
+Vessel 3 --> Truck moved container 103 of Vessel 3 at 765.00
+Vessel 4 --> Vessel 4 crane moved container 58 using truck at 765.00
+Vessel 3 --> Vessel 3 crane moved container 105 using truck at 765.00
+Vessel 4 --> Truck moved container 57 of Vessel 4 at 768.00
+Vessel 3 --> Truck moved container 104 of Vessel 3 at 768.00
+Vessel 4 --> Vessel 4 crane moved container 59 using truck at 768.00
+Vessel 3 --> Vessel 3 crane moved container 106 using truck at 768.00
+Vessel 4 --> Truck moved container 58 of Vessel 4 at 771.00
+Vessel 3 --> Truck moved container 105 of Vessel 3 at 771.00
+Vessel 4 --> Vessel 4 crane moved container 60 using truck at 771.00
+Vessel 3 --> Vessel 3 crane moved container 107 using truck at 771.00
+Vessel 4 --> Truck moved container 59 of Vessel 4 at 774.00
+Vessel 3 --> Truck moved container 106 of Vessel 3 at 774.00
+Vessel 4 --> Vessel 4 crane moved container 61 using truck at 774.00
+Vessel 3 --> Vessel 3 crane moved container 108 using truck at 774.00
+Vessel 4 --> Truck moved container 60 of Vessel 4 at 777.00
+Vessel 3 --> Truck moved container 107 of Vessel 3 at 777.00
+Vessel 4 --> Vessel 4 crane moved container 62 using truck at 777.00
+Vessel 3 --> Vessel 3 crane moved container 109 using truck at 777.00
+Vessel 4 --> Truck moved container 61 of Vessel 4 at 780.00
+Vessel 3 --> Truck moved container 108 of Vessel 3 at 780.00
+Vessel 4 --> Vessel 4 crane moved container 63 using truck at 780.00
+Vessel 3 --> Vessel 3 crane moved container 110 using truck at 780.00
+Vessel 4 --> Truck moved container 62 of Vessel 4 at 783.00
+Vessel 3 --> Truck moved container 109 of Vessel 3 at 783.00
+Vessel 4 --> Vessel 4 crane moved container 64 using truck at 783.00
+Vessel 3 --> Vessel 3 crane moved container 111 using truck at 783.00
+Vessel 4 --> Truck moved container 63 of Vessel 4 at 786.00
+Vessel 3 --> Truck moved container 110 of Vessel 3 at 786.00
+Vessel 4 --> Vessel 4 crane moved container 65 using truck at 786.00
+Vessel 3 --> Vessel 3 crane moved container 112 using truck at 786.00
+Vessel 4 --> Truck moved container 64 of Vessel 4 at 789.00
+Vessel 3 --> Truck moved container 111 of Vessel 3 at 789.00
+Vessel 4 --> Vessel 4 crane moved container 66 using truck at 789.00
+Vessel 3 --> Vessel 3 crane moved container 113 using truck at 789.00
+Vessel 4 --> Truck moved container 65 of Vessel 4 at 792.00
+Vessel 3 --> Truck moved container 112 of Vessel 3 at 792.00
+Vessel 4 --> Vessel 4 crane moved container 67 using truck at 792.00
+Vessel 3 --> Vessel 3 crane moved container 114 using truck at 792.00
+Vessel 4 --> Truck moved container 66 of Vessel 4 at 795.00
+Vessel 3 --> Truck moved container 113 of Vessel 3 at 795.00
+Vessel 4 --> Vessel 4 crane moved container 68 using truck at 795.00
+Vessel 3 --> Vessel 3 crane moved container 115 using truck at 795.00
+Vessel 4 --> Truck moved container 67 of Vessel 4 at 798.00
+Vessel 3 --> Truck moved container 114 of Vessel 3 at 798.00
+Vessel 4 --> Vessel 4 crane moved container 69 using truck at 798.00
+Vessel 3 --> Vessel 3 crane moved container 116 using truck at 798.00
+Vessel 4 --> Truck moved container 68 of Vessel 4 at 801.00
+Vessel 3 --> Truck moved container 115 of Vessel 3 at 801.00
+Vessel 4 --> Vessel 4 crane moved container 70 using truck at 801.00
+Vessel 3 --> Vessel 3 crane moved container 117 using truck at 801.00
+Vessel 4 --> Truck moved container 69 of Vessel 4 at 804.00
+Vessel 3 --> Truck moved container 116 of Vessel 3 at 804.00
+Vessel 4 --> Vessel 4 crane moved container 71 using truck at 804.00
+Vessel 3 --> Vessel 3 crane moved container 118 using truck at 804.00
+Vessel 4 --> Truck moved container 70 of Vessel 4 at 807.00
+Vessel 3 --> Truck moved container 117 of Vessel 3 at 807.00
+Vessel 4 --> Vessel 4 crane moved container 72 using truck at 807.00
+Vessel 3 --> Vessel 3 crane moved container 119 using truck at 807.00
+Vessel 4 --> Truck moved container 71 of Vessel 4 at 810.00
+Vessel 3 --> Truck moved container 118 of Vessel 3 at 810.00
+Vessel 4 --> Vessel 4 crane moved container 73 using truck at 810.00
+Vessel 3 --> Vessel 3 crane moved container 120 using truck at 810.00
+Vessel 4 --> Truck moved container 72 of Vessel 4 at 813.00
+Vessel 3 --> Truck moved container 119 of Vessel 3 at 813.00
+Vessel 4 --> Vessel 4 crane moved container 74 using truck at 813.00
+Vessel 3 --> Vessel 3 crane moved container 121 using truck at 813.00
+Vessel 4 --> Truck moved container 73 of Vessel 4 at 816.00
+Vessel 3 --> Truck moved container 120 of Vessel 3 at 816.00
+Vessel 4 --> Vessel 4 crane moved container 75 using truck at 816.00
+Vessel 3 --> Vessel 3 crane moved container 122 using truck at 816.00
+Vessel 4 --> Truck moved container 74 of Vessel 4 at 819.00
+Vessel 3 --> Truck moved container 121 of Vessel 3 at 819.00
+Vessel 4 --> Vessel 4 crane moved container 76 using truck at 819.00
+Vessel 3 --> Vessel 3 crane moved container 123 using truck at 819.00
+Vessel 4 --> Truck moved container 75 of Vessel 4 at 822.00
+Vessel 3 --> Truck moved container 122 of Vessel 3 at 822.00
+Vessel 4 --> Vessel 4 crane moved container 77 using truck at 822.00
+Vessel 3 --> Vessel 3 crane moved container 124 using truck at 822.00
+Vessel 4 --> Truck moved container 76 of Vessel 4 at 825.00
+Vessel 3 --> Truck moved container 123 of Vessel 3 at 825.00
+Vessel 4 --> Vessel 4 crane moved container 78 using truck at 825.00
+Vessel 3 --> Vessel 3 crane moved container 125 using truck at 825.00
+Vessel 4 --> Truck moved container 77 of Vessel 4 at 828.00
+Vessel 3 --> Truck moved container 124 of Vessel 3 at 828.00
+Vessel 4 --> Vessel 4 crane moved container 79 using truck at 828.00
+Vessel 3 --> Vessel 3 crane moved container 126 using truck at 828.00
+Vessel 4 --> Truck moved container 78 of Vessel 4 at 831.00
+Vessel 3 --> Truck moved container 125 of Vessel 3 at 831.00
+Vessel 4 --> Vessel 4 crane moved container 80 using truck at 831.00
+Vessel 3 --> Vessel 3 crane moved container 127 using truck at 831.00
+Vessel 4 --> Truck moved container 79 of Vessel 4 at 834.00
+Vessel 3 --> Truck moved container 126 of Vessel 3 at 834.00
+Vessel 4 --> Vessel 4 crane moved container 81 using truck at 834.00
+Vessel 3 --> Vessel 3 crane moved container 128 using truck at 834.00
+Vessel 4 --> Truck moved container 80 of Vessel 4 at 837.00
+Vessel 3 --> Truck moved container 127 of Vessel 3 at 837.00
+Vessel 4 --> Vessel 4 crane moved container 82 using truck at 837.00
+Vessel 3 --> Vessel 3 crane moved container 129 using truck at 837.00
+Vessel 4 --> Truck moved container 81 of Vessel 4 at 840.00
+Vessel 3 --> Truck moved container 128 of Vessel 3 at 840.00
+Vessel 4 --> Vessel 4 crane moved container 83 using truck at 840.00
+Vessel 3 --> Vessel 3 crane moved container 130 using truck at 840.00
+Vessel 4 --> Truck moved container 82 of Vessel 4 at 843.00
+Vessel 3 --> Truck moved container 129 of Vessel 3 at 843.00
+Vessel 4 --> Vessel 4 crane moved container 84 using truck at 843.00
+Vessel 3 --> Vessel 3 crane moved container 131 using truck at 843.00
+Vessel 4 --> Truck moved container 83 of Vessel 4 at 846.00
+Vessel 3 --> Truck moved container 130 of Vessel 3 at 846.00
+Vessel 4 --> Vessel 4 crane moved container 85 using truck at 846.00
+Vessel 3 --> Vessel 3 crane moved container 132 using truck at 846.00
+Vessel 4 --> Truck moved container 84 of Vessel 4 at 849.00
+Vessel 3 --> Truck moved container 131 of Vessel 3 at 849.00
+Vessel 4 --> Vessel 4 crane moved container 86 using truck at 849.00
+Vessel 3 --> Vessel 3 crane moved container 133 using truck at 849.00
+Vessel 4 --> Truck moved container 85 of Vessel 4 at 852.00
+Vessel 3 --> Truck moved container 132 of Vessel 3 at 852.00
+Vessel 4 --> Vessel 4 crane moved container 87 using truck at 852.00
+Vessel 3 --> Vessel 3 crane moved container 134 using truck at 852.00
+Vessel 4 --> Truck moved container 86 of Vessel 4 at 855.00
+Vessel 3 --> Truck moved container 133 of Vessel 3 at 855.00
+Vessel 4 --> Vessel 4 crane moved container 88 using truck at 855.00
+Vessel 3 --> Vessel 3 crane moved container 135 using truck at 855.00
+Vessel 4 --> Truck moved container 87 of Vessel 4 at 858.00
+Vessel 3 --> Truck moved container 134 of Vessel 3 at 858.00
+Vessel 4 --> Vessel 4 crane moved container 89 using truck at 858.00
+Vessel 3 --> Vessel 3 crane moved container 136 using truck at 858.00
+Vessel 4 --> Truck moved container 88 of Vessel 4 at 861.00
+Vessel 3 --> Truck moved container 135 of Vessel 3 at 861.00
+Vessel 4 --> Vessel 4 crane moved container 90 using truck at 861.00
+Vessel 3 --> Vessel 3 crane moved container 137 using truck at 861.00
+Vessel 4 --> Truck moved container 89 of Vessel 4 at 864.00
+Vessel 3 --> Truck moved container 136 of Vessel 3 at 864.00
+Vessel 4 --> Vessel 4 crane moved container 91 using truck at 864.00
+Vessel 3 --> Vessel 3 crane moved container 138 using truck at 864.00
+Vessel 4 --> Truck moved container 90 of Vessel 4 at 867.00
+Vessel 3 --> Truck moved container 137 of Vessel 3 at 867.00
+Vessel 4 --> Vessel 4 crane moved container 92 using truck at 867.00
+Vessel 3 --> Vessel 3 crane moved container 139 using truck at 867.00
+Vessel 4 --> Truck moved container 91 of Vessel 4 at 870.00
+Vessel 3 --> Truck moved container 138 of Vessel 3 at 870.00
+Vessel 4 --> Vessel 4 crane moved container 93 using truck at 870.00
+Vessel 3 --> Vessel 3 crane moved container 140 using truck at 870.00
+Vessel 4 --> Truck moved container 92 of Vessel 4 at 873.00
+Vessel 3 --> Truck moved container 139 of Vessel 3 at 873.00
+Vessel 4 --> Vessel 4 crane moved container 94 using truck at 873.00
+Vessel 3 --> Vessel 3 crane moved container 141 using truck at 873.00
+Vessel 4 --> Truck moved container 93 of Vessel 4 at 876.00
+Vessel 3 --> Truck moved container 140 of Vessel 3 at 876.00
+Vessel 4 --> Vessel 4 crane moved container 95 using truck at 876.00
+Vessel 3 --> Vessel 3 crane moved container 142 using truck at 876.00
+Vessel 4 --> Truck moved container 94 of Vessel 4 at 879.00
+Vessel 3 --> Truck moved container 141 of Vessel 3 at 879.00
+Vessel 4 --> Vessel 4 crane moved container 96 using truck at 879.00
+Vessel 3 --> Vessel 3 crane moved container 143 using truck at 879.00
+Vessel 4 --> Truck moved container 95 of Vessel 4 at 882.00
+Vessel 3 --> Truck moved container 142 of Vessel 3 at 882.00
+Vessel 4 --> Vessel 4 crane moved container 97 using truck at 882.00
+Vessel 3 --> Vessel 3 crane moved container 144 using truck at 882.00
+Vessel 4 --> Truck moved container 96 of Vessel 4 at 885.00
+Vessel 3 --> Truck moved container 143 of Vessel 3 at 885.00
+Vessel 4 --> Vessel 4 crane moved container 98 using truck at 885.00
+Vessel 3 --> Vessel 3 crane moved container 145 using truck at 885.00
+Vessel 4 --> Truck moved container 97 of Vessel 4 at 888.00
+Vessel 3 --> Truck moved container 144 of Vessel 3 at 888.00
+Vessel 4 --> Vessel 4 crane moved container 99 using truck at 888.00
+Vessel 3 --> Vessel 3 crane moved container 146 using truck at 888.00
+Vessel 4 --> Truck moved container 98 of Vessel 4 at 891.00
+Vessel 3 --> Truck moved container 145 of Vessel 3 at 891.00
+Vessel 4 --> Vessel 4 crane moved container 100 using truck at 891.00
+Vessel 3 --> Vessel 3 crane moved container 147 using truck at 891.00
+Vessel 4 --> Truck moved container 99 of Vessel 4 at 894.00
+Vessel 3 --> Truck moved container 146 of Vessel 3 at 894.00
+Vessel 4 --> Vessel 4 crane moved container 101 using truck at 894.00
+Vessel 3 --> Vessel 3 crane moved container 148 using truck at 894.00
+Vessel 4 --> Truck moved container 100 of Vessel 4 at 897.00
+Vessel 3 --> Truck moved container 147 of Vessel 3 at 897.00
+Vessel 4 --> Vessel 4 crane moved container 102 using truck at 897.00
+Vessel 3 --> Vessel 3 crane moved container 149 using truck at 897.00
+Vessel 4 --> Truck moved container 101 of Vessel 4 at 900.00
+Vessel 3 --> Truck moved container 148 of Vessel 3 at 900.00
+Vessel 4 --> Vessel 4 crane moved container 103 using truck at 900.00
+Vessel 3 --> Vessel 3 crane moved container 150 using truck at 900.00
+
+Vessel 3 --> The Vessel 3 is unloaded succesfully and had left the port at 900.00
+
+Vessel 5 berthed at 900.00
+The Unloading of Vessel 5 has been successfully started at 900.00
+
+Vessel 4 --> Truck moved container 102 of Vessel 4 at 903.00
+Vessel 3 --> Truck moved container 149 of Vessel 3 at 903.00
+Vessel 4 --> Vessel 4 crane moved container 104 using truck at 903.00
+Vessel 5 --> Vessel 5 crane moved container 1 using truck at 903.00
+Vessel 4 --> Truck moved container 103 of Vessel 4 at 906.00
+Vessel 3 --> Truck moved container 150 of Vessel 3 at 906.00
+Vessel 4 --> Vessel 4 crane moved container 105 using truck at 906.00
+Vessel 5 --> Vessel 5 crane moved container 2 using truck at 906.00
+Vessel 4 --> Truck moved container 104 of Vessel 4 at 909.00
+Vessel 5 --> Truck moved container 1 of Vessel 5 at 909.00
+Vessel 4 --> Vessel 4 crane moved container 106 using truck at 909.00
+Vessel 5 --> Vessel 5 crane moved container 3 using truck at 909.00
+Vessel 4 --> Truck moved container 105 of Vessel 4 at 912.00
+Vessel 5 --> Truck moved container 2 of Vessel 5 at 912.00
+Vessel 4 --> Vessel 4 crane moved container 107 using truck at 912.00
+Vessel 5 --> Vessel 5 crane moved container 4 using truck at 912.00
+Vessel 4 --> Truck moved container 106 of Vessel 4 at 915.00
+Vessel 5 --> Truck moved container 3 of Vessel 5 at 915.00
+Vessel 4 --> Vessel 4 crane moved container 108 using truck at 915.00
+Vessel 5 --> Vessel 5 crane moved container 5 using truck at 915.00
+Vessel 4 --> Truck moved container 107 of Vessel 4 at 918.00
+Vessel 5 --> Truck moved container 4 of Vessel 5 at 918.00
+Vessel 4 --> Vessel 4 crane moved container 109 using truck at 918.00
+Vessel 5 --> Vessel 5 crane moved container 6 using truck at 918.00
+Vessel 4 --> Truck moved container 108 of Vessel 4 at 921.00
+Vessel 5 --> Truck moved container 5 of Vessel 5 at 921.00
+Vessel 4 --> Vessel 4 crane moved container 110 using truck at 921.00
+Vessel 5 --> Vessel 5 crane moved container 7 using truck at 921.00
+Vessel 4 --> Truck moved container 109 of Vessel 4 at 924.00
+Vessel 5 --> Truck moved container 6 of Vessel 5 at 924.00
+Vessel 4 --> Vessel 4 crane moved container 111 using truck at 924.00
+Vessel 5 --> Vessel 5 crane moved container 8 using truck at 924.00
+Vessel 4 --> Truck moved container 110 of Vessel 4 at 927.00
+Vessel 5 --> Truck moved container 7 of Vessel 5 at 927.00
+Vessel 4 --> Vessel 4 crane moved container 112 using truck at 927.00
+Vessel 5 --> Vessel 5 crane moved container 9 using truck at 927.00
+Vessel 4 --> Truck moved container 111 of Vessel 4 at 930.00
+Vessel 5 --> Truck moved container 8 of Vessel 5 at 930.00
+Vessel 4 --> Vessel 4 crane moved container 113 using truck at 930.00
+Vessel 5 --> Vessel 5 crane moved container 10 using truck at 930.00
+Vessel 4 --> Truck moved container 112 of Vessel 4 at 933.00
+Vessel 5 --> Truck moved container 9 of Vessel 5 at 933.00
+Vessel 4 --> Vessel 4 crane moved container 114 using truck at 933.00
+Vessel 5 --> Vessel 5 crane moved container 11 using truck at 933.00
+Vessel 4 --> Truck moved container 113 of Vessel 4 at 936.00
+Vessel 5 --> Truck moved container 10 of Vessel 5 at 936.00
+Vessel 4 --> Vessel 4 crane moved container 115 using truck at 936.00
+Vessel 5 --> Vessel 5 crane moved container 12 using truck at 936.00
+Vessel 4 --> Truck moved container 114 of Vessel 4 at 939.00
+Vessel 5 --> Truck moved container 11 of Vessel 5 at 939.00
+Vessel 4 --> Vessel 4 crane moved container 116 using truck at 939.00
+Vessel 5 --> Vessel 5 crane moved container 13 using truck at 939.00
+Vessel 4 --> Truck moved container 115 of Vessel 4 at 942.00
+Vessel 5 --> Truck moved container 12 of Vessel 5 at 942.00
+Vessel 4 --> Vessel 4 crane moved container 117 using truck at 942.00
+Vessel 5 --> Vessel 5 crane moved container 14 using truck at 942.00
+Vessel 4 --> Truck moved container 116 of Vessel 4 at 945.00
+Vessel 5 --> Truck moved container 13 of Vessel 5 at 945.00
+Vessel 4 --> Vessel 4 crane moved container 118 using truck at 945.00
+Vessel 5 --> Vessel 5 crane moved container 15 using truck at 945.00
+Vessel 4 --> Truck moved container 117 of Vessel 4 at 948.00
+Vessel 5 --> Truck moved container 14 of Vessel 5 at 948.00
+Vessel 4 --> Vessel 4 crane moved container 119 using truck at 948.00
+Vessel 5 --> Vessel 5 crane moved container 16 using truck at 948.00
+Vessel 4 --> Truck moved container 118 of Vessel 4 at 951.00
+Vessel 5 --> Truck moved container 15 of Vessel 5 at 951.00
+Vessel 4 --> Vessel 4 crane moved container 120 using truck at 951.00
+Vessel 5 --> Vessel 5 crane moved container 17 using truck at 951.00
+Vessel 4 --> Truck moved container 119 of Vessel 4 at 954.00
+Vessel 5 --> Truck moved container 16 of Vessel 5 at 954.00
+Vessel 4 --> Vessel 4 crane moved container 121 using truck at 954.00
+Vessel 5 --> Vessel 5 crane moved container 18 using truck at 954.00
+Vessel 4 --> Truck moved container 120 of Vessel 4 at 957.00
+Vessel 5 --> Truck moved container 17 of Vessel 5 at 957.00
+Vessel 4 --> Vessel 4 crane moved container 122 using truck at 957.00
+Vessel 5 --> Vessel 5 crane moved container 19 using truck at 957.00
+Vessel 4 --> Truck moved container 121 of Vessel 4 at 960.00
+Vessel 5 --> Truck moved container 18 of Vessel 5 at 960.00
+Vessel 4 --> Vessel 4 crane moved container 123 using truck at 960.00
+Vessel 5 --> Vessel 5 crane moved container 20 using truck at 960.00
+Vessel 4 --> Truck moved container 122 of Vessel 4 at 963.00
+Vessel 5 --> Truck moved container 19 of Vessel 5 at 963.00
+Vessel 4 --> Vessel 4 crane moved container 124 using truck at 963.00
+Vessel 5 --> Vessel 5 crane moved container 21 using truck at 963.00
+Vessel 4 --> Truck moved container 123 of Vessel 4 at 966.00
+Vessel 5 --> Truck moved container 20 of Vessel 5 at 966.00
+Vessel 4 --> Vessel 4 crane moved container 125 using truck at 966.00
+Vessel 5 --> Vessel 5 crane moved container 22 using truck at 966.00
+Vessel 4 --> Truck moved container 124 of Vessel 4 at 969.00
+Vessel 5 --> Truck moved container 21 of Vessel 5 at 969.00
+Vessel 4 --> Vessel 4 crane moved container 126 using truck at 969.00
+Vessel 5 --> Vessel 5 crane moved container 23 using truck at 969.00
+Vessel 4 --> Truck moved container 125 of Vessel 4 at 972.00
+Vessel 5 --> Truck moved container 22 of Vessel 5 at 972.00
+Vessel 4 --> Vessel 4 crane moved container 127 using truck at 972.00
+Vessel 5 --> Vessel 5 crane moved container 24 using truck at 972.00
+Vessel 4 --> Truck moved container 126 of Vessel 4 at 975.00
+Vessel 5 --> Truck moved container 23 of Vessel 5 at 975.00
+Vessel 4 --> Vessel 4 crane moved container 128 using truck at 975.00
+Vessel 5 --> Vessel 5 crane moved container 25 using truck at 975.00
+Vessel 4 --> Truck moved container 127 of Vessel 4 at 978.00
+Vessel 5 --> Truck moved container 24 of Vessel 5 at 978.00
+Vessel 4 --> Vessel 4 crane moved container 129 using truck at 978.00
+Vessel 5 --> Vessel 5 crane moved container 26 using truck at 978.00
+Vessel 4 --> Truck moved container 128 of Vessel 4 at 981.00
+Vessel 5 --> Truck moved container 25 of Vessel 5 at 981.00
+Vessel 4 --> Vessel 4 crane moved container 130 using truck at 981.00
+Vessel 5 --> Vessel 5 crane moved container 27 using truck at 981.00
+Vessel 4 --> Truck moved container 129 of Vessel 4 at 984.00
+Vessel 5 --> Truck moved container 26 of Vessel 5 at 984.00
+Vessel 4 --> Vessel 4 crane moved container 131 using truck at 984.00
+Vessel 5 --> Vessel 5 crane moved container 28 using truck at 984.00
+Vessel 4 --> Truck moved container 130 of Vessel 4 at 987.00
+Vessel 5 --> Truck moved container 27 of Vessel 5 at 987.00
+Vessel 4 --> Vessel 4 crane moved container 132 using truck at 987.00
+Vessel 5 --> Vessel 5 crane moved container 29 using truck at 987.00
+Vessel 4 --> Truck moved container 131 of Vessel 4 at 990.00
+Vessel 5 --> Truck moved container 28 of Vessel 5 at 990.00
+Vessel 4 --> Vessel 4 crane moved container 133 using truck at 990.00
+Vessel 5 --> Vessel 5 crane moved container 30 using truck at 990.00
+Vessel 4 --> Truck moved container 132 of Vessel 4 at 993.00
+Vessel 5 --> Truck moved container 29 of Vessel 5 at 993.00
+Vessel 4 --> Vessel 4 crane moved container 134 using truck at 993.00
+Vessel 5 --> Vessel 5 crane moved container 31 using truck at 993.00
+Vessel 4 --> Truck moved container 133 of Vessel 4 at 996.00
+Vessel 5 --> Truck moved container 30 of Vessel 5 at 996.00
+Vessel 4 --> Vessel 4 crane moved container 135 using truck at 996.00
+Vessel 5 --> Vessel 5 crane moved container 32 using truck at 996.00
+Vessel 4 --> Truck moved container 134 of Vessel 4 at 999.00
+Vessel 5 --> Truck moved container 31 of Vessel 5 at 999.00
+Vessel 4 --> Vessel 4 crane moved container 136 using truck at 999.00
+Vessel 5 --> Vessel 5 crane moved container 33 using truck at 999.00
